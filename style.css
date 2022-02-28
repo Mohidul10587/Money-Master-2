@@ -1,0 +1,19 @@
+
+img{
+    width: 100%; 
+    height: 100%;
+}
+
+#parcent{
+    width: 50px;
+    text-align: center;
+}
+
+#alert1{
+    display: none; 
+    color: red;
+}
+#alert2{
+    display: none; 
+    color: red;
+}
